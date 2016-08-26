@@ -12,14 +12,14 @@ Nota: Considerar que n es un número entero entre 1 y 100.
 2. Leer un numero entero
 3. Evaluar dicho numero
 4. ¿Es par?
- i. SI - ¿Es mayor que 1 y menor que 6?
-   ii.a. SI - Imprimir Good
-   ii.b. NO - ¿Es mayor que 5 y menor que 21?
-     ii.b.1. SI - Imprimir Great
-     ii.b.2. NO - ¿Es mayor que 20 y menor que 101?
-             ii.b.2.1. SI - Imprimir Perfect!
-             ii.b.2.2. NO - Imprimir Ingrese un numero entre 0 y 100
-  ii. NO - Imprimir Odd
+ 1. SI - ¿Es mayor que 1 y menor que 6?
+  1. SI - Imprimir Good
+  2. NO - ¿Es mayor que 5 y menor que 21?
+    1. SI - Imprimir Great
+    2. NO - ¿Es mayor que 20 y menor que 101?
+       1. SI - Imprimir Perfect!
+       2. NO - Imprimir Ingrese un numero entre 0 y 100
+ 2. NO - Imprimir Odd
 5. FIN
 
 # Diagrama de flujo
